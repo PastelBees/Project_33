@@ -130,7 +130,7 @@ function draw() {
     if(gameState === "end"){
 
       textSize(80)
-      text("GAME OVER", 180, 300);
+      text("GAME OVER", 220, 300);
     }
   ground.display()
 }
